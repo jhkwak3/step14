@@ -5,7 +5,11 @@ public class TestService {
 	 * test하기 
 	 * 
 	 * */
-	public void aa() {
-		System.out.println("테스트서비스 추가");
+	public void bb() {
+		System.out.println("테스트 추가");
+		System.out.println("변경했다요");
+	}
+	public void cc () {
+		
 	}
 }
